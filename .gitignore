@@ -1,0 +1,7 @@
+CMakeFiles
+CMakeCache.txt
+*.o
+*.obj
+Makefile
+cmake_install.cmake
+libalutwrap.a
